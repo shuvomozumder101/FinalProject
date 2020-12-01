@@ -1,0 +1,333 @@
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).StaticWebAssets.xml
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).exe
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).deps.json
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).runtimeconfig.json
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).runtimeconfig.dev.json
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).pdb
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).Views.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).Views.pdb
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).AssemblyInfoInputs.cache
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).AssemblyInfo.cs
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).csproj.CoreCompileInputs.cache
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).RazorAssemblyInfo.cache
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).RazorAssemblyInfo.cs
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\staticwebassets\DigitalWallet(COPPI).StaticWebAssets.Manifest.cache
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\staticwebassets\DigitalWallet(COPPI).StaticWebAssets.xml
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\scopedcss\bundle\DigitalWallet(COPPI).styles.css
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).TagHelpers.input.cache
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).TagHelpers.output.cache
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).RazorCoreGenerate.cache
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).RazorTargetAssemblyInfo.cache
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).RazorTargetAssemblyInfo.cs
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).Views.pdb
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).csproj.CopyComplete
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).pdb
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).genruntimeconfig.cache
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\shuvo\source\repos\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).csprojAssemblyReference.cache
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).StaticWebAssets.xml
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).exe
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).deps.json
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).runtimeconfig.json
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).runtimeconfig.dev.json
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).pdb
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).Views.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\DigitalWallet(COPPI).Views.pdb
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).csprojAssemblyReference.cache
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).AssemblyInfoInputs.cache
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).AssemblyInfo.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).csproj.CoreCompileInputs.cache
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).MvcApplicationPartsAssemblyInfo.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).MvcApplicationPartsAssemblyInfo.cache
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).RazorAssemblyInfo.cache
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).RazorAssemblyInfo.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\staticwebassets\DigitalWallet(COPPI).StaticWebAssets.Manifest.cache
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\staticwebassets\DigitalWallet(COPPI).StaticWebAssets.xml
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\scopedcss\bundle\DigitalWallet(COPPI).styles.css
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).TagHelpers.input.cache
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).TagHelpers.output.cache
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).RazorCoreGenerate.cache
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).RazorTargetAssemblyInfo.cache
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).RazorTargetAssemblyInfo.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).Views.pdb
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).csproj.CopyComplete
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).dll
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).pdb
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).genruntimeconfig.cache
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MainLayout.cshtml.g.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ShortProfile.cshtml.g.cs
+D:\Dot Net core MVC\DigitalWallet(COPPI)\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Profile.cshtml.g.cs

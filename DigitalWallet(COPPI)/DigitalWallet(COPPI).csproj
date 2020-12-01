@@ -1,0 +1,67 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>aspnet-DigitalWallet_COPPI_-137B3F31-6603-4E2F-8C9E-56B66F762754</UserSecretsId>
+    <RootNamespace>DigitalWallet_COPPI_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Areas\Identity\**" />
+    <Content Remove="Areas\Identity\**" />
+    <EmbeddedResource Remove="Areas\Identity\**" />
+    <None Remove="Areas\Identity\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Areas\Identity\IdentityHostingStartup.cs" />
+    <Compile Include="Areas\Identity\Pages\Account\ConfirmEmail.cshtml.cs" />
+    <Compile Include="Areas\Identity\Pages\Account\Login.cshtml.cs" />
+    <Compile Include="Areas\Identity\Pages\Account\Logout.cshtml.cs" />
+    <Compile Include="Areas\Identity\Pages\Account\Register.cshtml.cs" />
+    <Compile Include="Areas\Identity\Pages\Account\ResetPassword.cshtml.cs" />
+    <Compile Include="Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Areas\Identity\Pages\Account\ConfirmEmail.cshtml" />
+    <None Include="Areas\Identity\Pages\Account\Login.cshtml" />
+    <None Include="Areas\Identity\Pages\Account\Logout.cshtml" />
+    <None Include="Areas\Identity\Pages\Account\Register.cshtml" />
+    <None Include="Areas\Identity\Pages\Account\ResetPassword.cshtml" />
+    <None Include="Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml" />
+    <None Include="Areas\Identity\Pages\_ValidationScriptsPartial.cshtml" />
+    <None Include="Areas\Identity\Pages\_ViewImports.cshtml" />
+    <None Include="wwwroot\Adda\css\vendor\Flaticon.svg" />
+    <None Include="wwwroot\Adda\fonts\bicon615a.svg" />
+    <None Include="wwwroot\Adda\fonts\Flaticon.svg" />
+    <None Include="wwwroot\Adda\fonts\Flaticon.woff2" />
+    <None Include="wwwroot\Adda\fonts\lgd641.svg" />
+    <None Include="wwwroot\Adda\js\main.js" />
+    <None Include="wwwroot\Adda\js\plugins\imagesloaded.pkgd.min.js" />
+    <None Include="wwwroot\Adda\js\plugins\isotope.pkgd.min.js" />
+    <None Include="wwwroot\Adda\js\plugins\lightgallery-all.min.js" />
+    <None Include="wwwroot\Adda\js\plugins\nice-select.min.js" />
+    <None Include="wwwroot\Adda\js\plugins\perfect-scrollbar.min.js" />
+    <None Include="wwwroot\Adda\js\plugins\plyr.min.js" />
+    <None Include="wwwroot\Adda\js\plugins\slick.min.js" />
+    <None Include="wwwroot\Adda\js\vendor\bootstrap.min.js" />
+    <None Include="wwwroot\Adda\js\vendor\jquery-3.3.1.min.js" />
+    <None Include="wwwroot\Adda\js\vendor\modernizr-3.6.0.min.js" />
+    <None Include="wwwroot\Adda\js\vendor\popper.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="7.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="3.1.8" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
+  </ItemGroup>
+
+</Project>
