@@ -12,5 +12,9 @@ namespace DigitalWallet_COPPI_.Controllers
         {
             return View();
         }
+        public IActionResult Friends()
+        {
+            return View();
+        }
     }
 }
