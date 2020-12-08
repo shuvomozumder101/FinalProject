@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using DigitalWallet_COPPI_.Models.Profile;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,13 +9,21 @@ namespace DigitalWallet_COPPI_.Controllers
 {
     public class ProfileController : Controller
     {
+       
         public IActionResult Profile()
         {
-            return View();
+            var model = new ProfileModel();
+            return View(model);
         }
         public IActionResult Friends()
         {
-            return View();
+            var model = new FriendsModel();
+            return View(model);
+        }
+        public IActionResult About()
+        {
+            var model = new AboutModel();
+            return View(model);
         }
     }
 }

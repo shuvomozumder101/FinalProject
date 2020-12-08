@@ -467,7 +467,6 @@ C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\bin\Debu
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).csprojAssemblyReference.cache
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).AssemblyInfoInputs.cache
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).AssemblyInfo.cs
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).csproj.CoreCompileInputs.cache
@@ -502,11 +501,14 @@ C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debu
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Friends.cshtml.g.cs
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ActiveList.cshtml.g.cs
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Footer.cshtml.g.cs
-C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MessageBox.cshtml.g.cs
-C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchFriend.cshtml.g.cs
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Headerbar.cshtml.g.cs
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_FriendReequestNotifactionPartial.cshtml.g.cs
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ShortProfilePartial.cshtml.g.cs
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PostBarPartial.cshtml.g.cs
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PostPartial.cshtml.g.cs
 C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SuggestFriendPartial.cshtml.g.cs
+C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_MessageBoxPartial.cshtml.g.cs
+C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SearchFriendPartial.cshtml.g.cs
+C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProfileHeaderBarPartial.cshtml.g.cs
+C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\Razor\Views\Profile\About.cshtml.g.cs
+C:\Final Project\DigitalWallet(COPPI)\FinalProject\DigitalWallet(COPPI)\obj\Debug\netcoreapp3.1\DigitalWallet(COPPI).csprojAssemblyReference.cache
