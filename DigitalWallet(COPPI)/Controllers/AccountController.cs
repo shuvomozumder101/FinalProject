@@ -8,7 +8,7 @@ namespace DigitalWallet_COPPI_.Controllers
 {
     public class AccountController : Controller
     {
-        public IActionResult Login()
+        public IActionResult Registration()
         {
             return View();
         }

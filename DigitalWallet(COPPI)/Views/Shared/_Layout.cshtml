@@ -1,49 +1,128 @@
-﻿<!DOCTYPE html>
-<html lang="en">
+﻿<!doctype html>
+<html class="no-js" lang="en">
+
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - DigitalWallet_COPPI_</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="~/css/site.css" />
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Adda - Social Network HTML Template</title>
+    <meta name="robots" content="noindex, follow" />
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="~/Adda/images/favicon.ico">
+
+    <!-- CSS google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900" rel="stylesheet">
+    <!-- Bootstrap CSS -->
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <!-- Icon Font CSS -->
+    <link href="~/Adda/css/vendor/bicon.min.css" rel="stylesheet" />
+    <!-- Flat Icon CSS -->
+    <link rel="stylesheet" href="~/Adda/css/vendor/flaticon.css">
+    <!-- audio & video player CSS -->
+    <link rel="stylesheet" href="~/Adda/css/plugins/plyr.css">
+    <!-- Slick CSS -->
+    <link rel="stylesheet" href="~/Adda/css/plugins/slick.min.css">
+    <!-- nice-select CSS -->
+    <link rel="stylesheet" href="~/Adda/css/plugins/nice-select.css">
+    <!-- perfect scrollbar css -->
+    <link rel="stylesheet" href="~/Adda/css/plugins/perfect-scrollbar.css">
+    <!-- light gallery css -->
+    <link rel="stylesheet" href="~/Adda/css/plugins/lightgallery.min.css">
+    <!-- Main Style CSS -->
+    <link rel="stylesheet" href="~/Adda/css/style.css">
+
 </head>
+
 <body>
+    <!-- header area start -->
+    <!-- header area end -->
+    <!-- header area start -->
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">DigitalWallet_COPPI_</a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
-                    <partial name="_LoginPartial" />
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
+        <div class="mobile-header-wrapper sticky d-block d-lg-none">
+            <div class="mobile-header position-relative ">
+                <div class="mobile-logo">
+                    <a href="index.html">
+                        <img src="~/Adda/images/Logo.png" alt="Logo">
+                    </a>
+                </div>
+                <div class="mobile-menu w-100">
+                    <ul>
+                        <li>
+                            <button class="notification request-trigger">
+                                <i class="flaticon-users"></i>
+                                <span>03</span>
+                            </button>
+                            <ul class="frnd-request-list">
+                                <li>
+                                    <div class="frnd-request-member">
+                                        <figure class="request-thumb">
+                                            <a href="Profile.cshtml">
+                                                <img src="~/Adda/images/profile/profile-midle-1.jpg" alt="proflie author">
+                                            </a>
+                                        </figure>
+                                        <div class="chat-text-field mob-text-box">
+                                            <textarea class="live-chat-field custom-scroll" placeholder="Text Message"></textarea>
+                                            <button class="chat-message-send" type="submit" value="submit">
+                                                <img src="~/Adda/images/icons/plane.png" alt="">
+                                            </button>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <button class="search-trigger">
+                                        <i class="search-icon flaticon-search"></i>
+                                        <i class="close-icon flaticon-cross-out"></i>
+                                    </button>
+                                    <div class="mob-search-box">
+                                        <form class="mob-search-inner">
+                                            <input type="text" placeholder="Search Here" class="mob-search-field">
+                                            <button class="mob-search-btn"><i class="flaticon-search"></i></button>
+                                        </form>
+                                    </div>
+                                </li>
+                            </ul>
                     </ul>
                 </div>
             </div>
-        </nav>
-    </header>
-    <div class="container">
-        <main role="main" class="pb-3">
-            @RenderBody()
-        </main>
-    </div>
-
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2020 - DigitalWallet_COPPI_ - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
         </div>
-    </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="~/js/site.js" asp-append-version="true"></script>
-    @RenderSection("Scripts", required: false)
+    </header>
+    <!-- header area end -->
+    <!--Body Containt-->
+    @RenderBody()
+
+    <!-- Scroll to top start -->
+    <div class="scroll-top not-visible">
+        <i class="bi bi-finger-index"></i>
+    </div>
+    <!-- Scroll to Top End -->
+
+    <!-- JS
+    ============================================ -->
+    <!-- Modernizer JS -->
+    <script src="~/Adda/js/vendor/modernizr-3.6.0.min.js"></script>
+    <!-- jQuery JS -->
+    <script src="~/Adda/js/vendor/jquery-3.3.1.min.js"></script>
+    <!-- Popper JS -->
+    <script src="~/Adda/js/vendor/popper.min.js"></script>
+    <!-- Bootstrap JS -->
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- Slick Slider JS -->
+    <script src="~/Adda/js/plugins/slick.min.js"></script>
+    <!-- nice select JS -->
+    <script src="~/Adda/js/plugins/nice-select.min.js"></script>
+    <!-- audio video player JS -->
+    <script src="~/Adda/js/plugins/plyr.min.js"></script>
+    <!-- perfect scrollbar js -->
+    <script src="~/Adda/js/plugins/perfect-scrollbar.min.js"></script>
+    <!-- light gallery js -->
+    <script src="~/Adda/js/plugins/lightgallery-all.min.js"></script>
+    <!-- image loaded js -->
+    <script src="~/Adda/js/plugins/imagesloaded.pkgd.min.js"></script>
+    <!-- isotope filter js -->
+    <script src="~/Adda/js/plugins/isotope.pkgd.min.js"></script>
+    <!-- Main JS -->
+    <script src="~/Adda/js/main.js"></script>
+
 </body>
 </html>
