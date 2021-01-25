@@ -15,6 +15,11 @@ namespace DigitalWallet_COPPI_.Controllers
             var model = new ProfileModel();
             return View(model);
         }
+        public IActionResult EditProfile()
+        {
+            var model = new ProfileModel();
+            return View(model);
+        }
         public IActionResult Friends()
         {
             var model = new FriendsModel();

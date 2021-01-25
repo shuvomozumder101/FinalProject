@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -9,6 +8,8 @@ namespace DigitalWallet_COPPI_.Models
 {
     public class Registration
     {
+        [Key]
+        
         [Required]
         [Display(Name = "User Name")]
         public string Name { get; set; }

@@ -11,6 +11,10 @@ namespace DigitalWallet_COPPI_.Controllers
         public IActionResult Registration()
         {
             return View();
+        } 
+        public IActionResult Login()
+        {
+            return View();
         }
     }
 }

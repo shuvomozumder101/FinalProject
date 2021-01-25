@@ -8,28 +8,13 @@
                         <ul>
                             <li class="active"><a asp-controller="Home" asp-action="Index">Home</a></li>
                             <li class="msg-trigger">
-                                <a class="msg-trigger-btn" href="#a">Message</a>
+                                <a asp-controller="Message" asp-action="Message">Message</a>
                                 <div class="message-dropdown" id="a">
                                     <div class="dropdown-title">
                                         <p class="recent-msg">recent message</p>
                                         <div class="message-btn-group">
                                             <button>New Message</button>
                                         </div>
-                                    </div>
-                                    <div class="msg-dropdown-footer">
-                                        <button>See all in messenger</button>
-                                        <button>Mark All as Read</button>
-                                    </div>
-                                </div>
-                            </li>
-                            <li class="notification-trigger">
-                                <a class="msg-trigger-btn" href="#b">notification</a>
-                                <div class="message-dropdown" id="b">
-                                    <div class="dropdown-title">
-                                        <p class="recent-msg">Notification</p>
-                                        <button>
-                                            <i class="flaticon-settings"></i>
-                                        </button>
                                     </div>
                                     <div class="msg-dropdown-footer">
                                         <button>See all in messenger</button>
@@ -45,8 +30,8 @@
             <div class="col-md-2">
                 <!-- brand logo start -->
                 <div class="brand-logo text-center">
-                    <a herf="/">
-                        <img src="~/Adda/images/logo/logo.png" alt="brand logo">
+                    <a asp-controller="Home" asp-action="Index">
+                        <img src="~/Adda/images/Logo.jpg" alt="SmS" style="width:100px;height:50px;">
                     </a>
                 </div>
                 <!-- brand logo end -->
@@ -78,11 +63,11 @@
                                 <div class="profile-body">
                                     <ul>
                                         <li><a asp-controller="Profile" asp-action="Profile"><i class="flaticon-user"></i>Profile</a></li>
-                                        <li><a href="#"><i class="flaticon-message"></i>Inbox</a></li>
+                                        <li><a asp-controller="Message" asp-action="Message"><i class="flaticon-message"></i>Inbox</a></li>
                                     </ul>
                                     <ul>
-                                        <li><a href="#"><i class="flaticon-settings"></i>Setting</a></li>
-                                        <li><a asp-action="Registration"asp-controller="Account"><i class="flaticon-unlock"></i>Sing out</a></li>
+                                        <li><a asp-controller="Profile" asp-action="EditProfile"><i class="flaticon-settings"></i>Setting</a></li>
+                                        <li><a asp-action="Index"asp-controller="Registration"><i class="flaticon-unlock"></i>Sing out</a></li>
                                     </ul>
                                 </div>
                             </div>
